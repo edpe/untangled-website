@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Untangled on Hugo Whisper Theme</title>
+    <title>Untangled</title>
     <link>/info/</link>
-    <description>Recent content in Untangled on Hugo Whisper Theme</description>
+    <description>Recent content on Untangled</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/info/creative-coding.js/</guid>
-      <description>We will be using a javascript framework called P5.js which you can use to make games, art, animations, musical instruments, physical models, geolocation tools, maps, generative speech and text, the list goes on and on.
+      <description>We will be using a javascript framework called P5.js which you can use to make games, interactive art, animations, musical instruments, physical models, geolocation tools, maps, generative speech and text, the list goes on and on.
 p5.js You can read more about p5.js here and have a play around with some of the examples
 If you like watching video tutorials there are loads on YouTube. Daniel Schiffman&amp;rsquo;s The Coding Train series is our favourite and a good place to start learning about p5.</description>
     </item>
@@ -28,7 +28,8 @@ If you like watching video tutorials there are loads on YouTube. Daniel Schiffma
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/info/frequently-asked-questions/</guid>
-      <description>Here&amp;rsquo;s some basic information to get you started - any further questions just email us at untangled@neontribe.co.uk How do I get to Untangled? Untangled will be held at Access Creative College [https://www.accesscreative.ac.uk/locations/norwich-college/] The address is:
+      <description>Here&amp;rsquo;s some basic information to get you started - any further questions just email us at untangled@neontribe.co.uk How do I get to Untangled? Untangled will take place at Access Creative College
+The address is:
 114 Magdalen Street Norwich NR3 1JD
 Please go to reception at 9am on the 5th August and say you are there for Untangled
 What do I need to bring? You can bring your own laptop if you want to, but we have computers you can work on if you don’t.</description>

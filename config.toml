@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "Untangled"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -22,12 +22,12 @@ pygmentsUseClasses = true
   google_analytics_id=""
   homepage_button_link = '/info'
   homepage_button_text = 'Tell me more'
-  homepage_intro = 'A week of experimenting, designing and making using code'
+  homepage_intro = 'A week of experimenting, designing and making with code'
   homepage_image = ''
 
   [params.homepage_meta_tags]
-    meta_description = "Untangled is a week of experimenting, designing and making using code"
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "Untangled is a week of experimenting, designing and making with code"
+    meta_og_title = "Untangled"
     meta_og_type = "website"
     meta_og_url = "https://hugo-whisper.netlify.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
