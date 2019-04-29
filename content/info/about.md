@@ -4,7 +4,6 @@ date: 2017-01-28T15:14:39+10:00
 weight: 1
 ---
 
-![Untangled Logo](/images/untangled.png)
 
 ### What is Untangled?
 

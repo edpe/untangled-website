@@ -4,8 +4,6 @@ date: 2019-02-11T19:27:37+10:00
 weight: 2
 ---
 
-![Untangled Logo](/images/untangled.png)
-
 ### Creative coding with P5.js
 
 We will be using a javascript framework called P5.js which you can use to make games, interactive art, animations, musical instruments, physical models, geolocation tools, maps, generative speech and text, the list goes on and on.
