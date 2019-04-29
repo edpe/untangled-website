@@ -1,0 +1,23 @@
+{
+  "name": "untangled",
+  "version": "1.0.0",
+  "description": "untangled website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo server",
+    "build": "hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpe/untangled-website.git"
+  },
+  "author": "ed perkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edpe/untangled-website/issues"
+  },
+  "homepage": "https://github.com/edpe/untangled-website#readme",
+  "dependencies": {
+    "heroku": "^7.22.10"
+  }
+}

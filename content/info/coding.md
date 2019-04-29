@@ -17,6 +17,6 @@ If you like watching video tutorials there are loads on YouTube. Daniel Schiffma
 For further reading you can find the entire [The Nature of Code](https://natureofcode.com/book/) for free online which is a great foundation for any creative coder.
 
 {{< hp5 "https://editor.p5js.org/edpe/embed/WutHL_29P" >}}
-Flocking simulation taken from [the p5.js site](https://p5js.org/)
+_Flocking simulation taken from [the p5.js site](https://p5js.org/)_
 
 You don't even need a fancy laptop or software to get started, you can just use the [the p5.js web editor](https://editor.p5js.org/)
