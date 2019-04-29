@@ -14,7 +14,7 @@ pygmentsUseClasses = true
     weight = 1
 
 [[menu.main]]
-    name = "info"
+    name = "Information"
     url = "/info/"
     weight = 2
 
@@ -37,5 +37,5 @@ pygmentsUseClasses = true
     meta_twitter_creator = "@neontribe"
 
   [params.logo]
-      mobile = "/images/neontribe-logo-mobile.svg"
+      mobile = "/images/neontribe-logo.svg"
       standard  = "/images/neontribe-logo.svg"

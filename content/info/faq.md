@@ -1,22 +1,23 @@
 ---
 title: 'Frequently Asked Questions'
 date: 2019-02-11T19:27:37+10:00
-draft: false
 weight: 3
 ---
+
+![Untangled Logo](/images/untangled.png)
+
+### Frequently Asked Questions 
 
 Here's some basic information to get you started - any further questions just email us at untangled@neontribe.co.uk  <br>
 
 ### How do I get to Untangled?
 Untangled will take place at [Access Creative College](https://www.accesscreative.ac.uk/locations/norwich-college/)
 
-The address is:
-
-114 Magdalen Street
+The address is: **114 Magdalen Street
 Norwich
-NR3 1JD
+NR3 1JD**
 
-Please go to reception at 9am on the 5th August and say you are there for Untangled
+Please go to reception at **9am on the 5th August** and say you are there for Untangled
 
 ### What do I need to bring?
 

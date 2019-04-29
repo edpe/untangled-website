@@ -1,12 +1,16 @@
 ---
-title: 'Creative coding with P5.js'
+title: 'Creative Coding with P5.js'
 date: 2019-02-11T19:27:37+10:00
 weight: 2
 ---
 
+![Untangled Logo](/images/untangled.png)
+
+### Creative coding with P5.js
+
 We will be using a javascript framework called P5.js which you can use to make games, interactive art, animations, musical instruments, physical models, geolocation tools, maps, generative speech and text, the list goes on and on.
 
-### p5.js
+### What is p5.js?
 
 You can read more about p5.js [here](https://p5js.org/) and have a play around with some of the [examples](https://p5js.org/examples/)
 
